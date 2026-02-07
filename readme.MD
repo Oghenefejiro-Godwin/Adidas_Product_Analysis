@@ -50,8 +50,8 @@ The data was provided in raw format and required preprocessing before analysis.
 ---
 
 ## 🔗 Project Files
-- 📓 [Analysis Notebook](notebook\adidas.ipynb)
-- 📊 [Raw Dataset](csv_files\adidas_usa_raw.csv)
+- 📓 [Analysis Notebook](notebook/adidas.ipynb)
+- 📊 [Raw Dataset](csv_files/adidas_usa_raw.csv)
 
 ---
 
